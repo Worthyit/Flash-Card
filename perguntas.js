@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Programação',
+    'O que é C++?',
+    'C++ é desenvolvido para ser uma linguagem tipada estaticamente e de propósito geral que é tão eficiente e portátil quanto o C'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'O que é Ruby?',
+    'é uma linguagem de programação altamente flexível'
 ) 
